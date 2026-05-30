@@ -376,6 +376,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Welches ist das beliebteste Lied zu Weihnachten bei den Dinos? Ihr Kinderlein Komet.
 - Welches ist der faulste Dinosaurier, der nur rumliegt? Der Brach-iosaurus.
 - Welches ist die lustigste Automarke? Scherzedes.
+- Wenn Bienen übrigens Zug fahren, dann am liebsten auf Stichstrecken.
 - Wenn Dinos eine Brille brauchten, dann gingen sie zum alten Archäopterix.
 - Wenn Nicolas Wöhrl sich ein Brötchen schmiert ... ist es dann wissenschaftlich belegt?
 - Wenn ein südamerikanisches Kameltier betrunken ist ... ist das dann ein Alkpaka?
